@@ -10,4 +10,4 @@ Recruit Holdings has unique access to key datasets that could make automated fut
 
 We are trying to predict the total number of visitors to a restaurant for future dates by using Gradient Boosting Decision Tree Regressor. This information will help restaurants be much more efficient and allow them to focus on creating an enjoyable dining experience for their customers.
 
-For the remaininng dataset, please unzip the all.zip file, the notebook only uses those csv files in "all" folder.
+For the remaininng dataset, please unzip the other.zip file, the notebook only uses those csv files in "all" zip.
